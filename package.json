@@ -2,7 +2,8 @@
   "name": "codepipeline-s3deployment",
   "version": "0.1.0",
   "bin": {
-    "s3deployment": "bin/s3deployment.js"
+    "s3deployment": "bin/s3deployment.js",
+    "pipeline": "bin/pipeline.js"
   },
   "scripts": {
     "build": "tsc",
